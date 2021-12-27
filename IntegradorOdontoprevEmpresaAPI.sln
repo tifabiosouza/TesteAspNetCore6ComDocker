@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntegradorOdontoprevEmpresaAPI", "IntegradorOdontoprevEmpresaAPI\IntegradorOdontoprevEmpresaAPI.csproj", "{728CFAFC-F99F-4A72-BE3C-A94FB2327019}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		dist|Any CPU = dist|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{728CFAFC-F99F-4A72-BE3C-A94FB2327019}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{728CFAFC-F99F-4A72-BE3C-A94FB2327019}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{728CFAFC-F99F-4A72-BE3C-A94FB2327019}.dist|Any CPU.ActiveCfg = dist|Any CPU
+		{728CFAFC-F99F-4A72-BE3C-A94FB2327019}.dist|Any CPU.Build.0 = dist|Any CPU
+		{728CFAFC-F99F-4A72-BE3C-A94FB2327019}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{728CFAFC-F99F-4A72-BE3C-A94FB2327019}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {229E2B69-43A3-446D-AF8B-5539AC1BCA6A}
+	EndGlobalSection
+EndGlobal
